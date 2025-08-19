@@ -1,0 +1,10 @@
+{
+	"defName":"Chat",
+	"command":"chat",
+	"enabled":"True",
+	"shouldBeInSeparateRoom":"False",
+	"requiresMod":"False",
+	"requiresAdmin":"False",
+	"outputMessage":"",
+	"isCustomMessage":"False"
+}

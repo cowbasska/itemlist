@@ -1,0 +1,10 @@
+{
+	"defName":"AbandonPawn",
+	"command":"выйти",
+	"enabled":"True",
+	"shouldBeInSeparateRoom":"False",
+	"requiresMod":"False",
+	"requiresAdmin":"False",
+	"outputMessage":"",
+	"isCustomMessage":"False"
+}

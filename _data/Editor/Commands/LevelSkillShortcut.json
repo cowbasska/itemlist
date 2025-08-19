@@ -1,0 +1,10 @@
+{
+	"defName":"LevelSkillShortcut",
+	"command":"levelskill",
+	"enabled":"True",
+	"shouldBeInSeparateRoom":"True",
+	"requiresMod":"False",
+	"requiresAdmin":"False",
+	"outputMessage":"",
+	"isCustomMessage":"False"
+}

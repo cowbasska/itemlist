@@ -1,0 +1,10 @@
+{
+	"defName":"KarmaRound",
+	"command":"karmaround",
+	"enabled":"True",
+	"shouldBeInSeparateRoom":"False",
+	"requiresMod":"True",
+	"requiresAdmin":"False",
+	"outputMessage":"",
+	"isCustomMessage":"False"
+}

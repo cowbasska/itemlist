@@ -1,0 +1,10 @@
+{
+	"defName":"SetKarma",
+	"command":"setkarma",
+	"enabled":"True",
+	"shouldBeInSeparateRoom":"False",
+	"requiresMod":"True",
+	"requiresAdmin":"False",
+	"outputMessage":"",
+	"isCustomMessage":"False"
+}

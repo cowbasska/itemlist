@@ -1,0 +1,10 @@
+{
+	"defName":"JoinQueue",
+	"command":"joinqueue",
+	"enabled":"True",
+	"shouldBeInSeparateRoom":"False",
+	"requiresMod":"False",
+	"requiresAdmin":"False",
+	"outputMessage":"",
+	"isCustomMessage":"False"
+}

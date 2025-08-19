@@ -1,0 +1,10 @@
+{
+	"defName":"PurchaseList",
+	"command":"purchaselist",
+	"enabled":"True",
+	"shouldBeInSeparateRoom":"True",
+	"requiresMod":"False",
+	"requiresAdmin":"False",
+	"outputMessage":"",
+	"isCustomMessage":"False"
+}

@@ -1,0 +1,10 @@
+{
+	"defName":"Instructions",
+	"command":"instructions",
+	"enabled":"True",
+	"shouldBeInSeparateRoom":"False",
+	"requiresMod":"False",
+	"requiresAdmin":"False",
+	"outputMessage":"",
+	"isCustomMessage":"False"
+}

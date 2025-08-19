@@ -1,0 +1,10 @@
+{
+	"defName":"CheckUser",
+	"command":"checkuser",
+	"enabled":"True",
+	"shouldBeInSeparateRoom":"False",
+	"requiresMod":"True",
+	"requiresAdmin":"False",
+	"outputMessage":"",
+	"isCustomMessage":"False"
+}

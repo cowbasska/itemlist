@@ -1,0 +1,28 @@
+TwitchToolkit - Log - Tuesday, August 19, 2025
+Finished lookup parse
+Parsed pawn command
+Finished lookup parse
+Parsed pawn command
+Purchase cowbasska: !buy pawn @ 2:30 PM
+Finished lookup parse
+Parsed pawn command
+cowbasska's karma went from 140 to 140
+Finished lookup parse
+Parsed pawn command
+Finished lookup parse
+Parsed pawn command
+Finished lookup parse
+Parsed pawn command
+Finished lookup parse
+Parsed pawn command
+Finished lookup parse
+Parsed pawn command
+Purchase cowbasska: !buy диван @ 2:43 PM
+cowbasska's karma went from 140 to 140
+Purchase cowbasska: !buy альпака @ 2:44 PM
+cowbasska's karma went from 140 to 140
+cowbasska gave viewer cowbasska 10000 coins @ 2:49 PM
+Purchase cowbasska: !buy pawn @ 2:49 PM
+cowbasska's karma went from 140 to 140
+Purchase cowbasska: !купить кровать @ 2:55 PM
+cowbasska's karma went from 140 to 140

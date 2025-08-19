@@ -1,0 +1,10 @@
+{
+	"defName":"ToggleCoins",
+	"command":"togglecoins",
+	"enabled":"True",
+	"shouldBeInSeparateRoom":"False",
+	"requiresMod":"True",
+	"requiresAdmin":"False",
+	"outputMessage":"",
+	"isCustomMessage":"False"
+}

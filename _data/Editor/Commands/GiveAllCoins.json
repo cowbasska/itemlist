@@ -1,0 +1,10 @@
+{
+	"defName":"GiveAllCoins",
+	"command":"giveallcoins",
+	"enabled":"True",
+	"shouldBeInSeparateRoom":"False",
+	"requiresMod":"True",
+	"requiresAdmin":"False",
+	"outputMessage":"",
+	"isCustomMessage":"False"
+}

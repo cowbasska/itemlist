@@ -1,0 +1,10 @@
+{
+	"defName":"GiftCoins",
+	"command":"giftcoins",
+	"enabled":"False",
+	"shouldBeInSeparateRoom":"True",
+	"requiresMod":"False",
+	"requiresAdmin":"False",
+	"outputMessage":"",
+	"isCustomMessage":"False"
+}

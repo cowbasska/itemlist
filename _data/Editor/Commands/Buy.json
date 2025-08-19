@@ -1,0 +1,10 @@
+{
+	"defName":"Buy",
+	"command":"купить",
+	"enabled":"True",
+	"shouldBeInSeparateRoom":"True",
+	"requiresMod":"False",
+	"requiresAdmin":"False",
+	"outputMessage":"",
+	"isCustomMessage":"False"
+}

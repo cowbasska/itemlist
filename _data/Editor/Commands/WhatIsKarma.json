@@ -1,0 +1,10 @@
+{
+	"defName":"WhatIsKarma",
+	"command":"whatiskarma",
+	"enabled":"True",
+	"shouldBeInSeparateRoom":"True",
+	"requiresMod":"False",
+	"requiresAdmin":"False",
+	"outputMessage":"",
+	"isCustomMessage":"False"
+}
