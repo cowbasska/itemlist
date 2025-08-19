@@ -1,12 +1,13 @@
 # Metadata
-title: "SirRandoo's Purchase List"
+title: "СПИСОК ПРЕДМЕТОВ ДЛЯ ПОКУПКИ"
 favicon: assets/img/favicon.png
-description: A custom version of Toolkit's item list to support all the latest features of Utils.
+description: пишите !buy предмет или $предмет в чат, чтобы купить предмет
+
 
 baseurl: '/itemlist' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ''
-github_username: 'sirrandoo'
+github_username: 'cowbasska'
 
 # Item list settings
 #
@@ -68,12 +69,8 @@ mods:
   author: true
 
 # Build settings
-theme: type-on-strap
-markdown: kramdown
-sass:
-  style: compressed
+remote_theme: SirRandoo/Type-on-Strap
+plugins:
+  -
 
-permalink: pretty
-
-exclude:
-  - build-scripts
+theme: jekyll-theme-cayman
